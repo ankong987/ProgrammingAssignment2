@@ -1,4 +1,4 @@
-inv## Put comments here that give an overall description of what your
+## Put comments here that give an overall description of what your
 ## functions do
 
 ## getting the matrix and setting the matrix, returns what was cached
